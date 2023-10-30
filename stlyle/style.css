@@ -18,6 +18,7 @@ h1{
 .verde{
     background-color: lightgreen;
     padding: 2px;
+
 }
 .space{
     margin-top: 10px;
@@ -27,3 +28,11 @@ h1{
     text-align: start;
 }
 
+.col-6 .row{
+    width: 100%;
+    padding: 2px;
+}
+
+.grande{
+    padding: 2rem;
+}
